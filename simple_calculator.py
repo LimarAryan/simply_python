@@ -1,3 +1,7 @@
+#Takes two numbers as input and 
+#takes math operation as input
+#and preforms calculation
+
 number_one = int(input("Enter your first value: "))
 number_two = int(input("Enter your second value: "))
 
