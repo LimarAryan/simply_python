@@ -1,5 +1,6 @@
 #Example of how to setup a Breadth-First search (queue)
 #First in Last out (FILO)
+#Uninformed search algorithm: No knowledge of problem, only initial state and possible actions to take
 
 def remove(self):
     #Checks if frontier (list of nodes) is empty
