@@ -1,5 +1,4 @@
 #Example of how to setup a Depth-First Search (stack)
-#Last in First out (LIFO)
 #Uninformed search algorithm: No knowledge of problem, only initial state and possible actions to take
 
 def remove(self):
