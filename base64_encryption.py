@@ -1,5 +1,3 @@
-
-print('hello world')
 import base64
 
 #Base64 Encryption
