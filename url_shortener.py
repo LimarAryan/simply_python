@@ -7,4 +7,5 @@ shortener = pyshorteners.Shortener()
 
 shortened_URL = shortener.dagd.short(url)
 
+#prints url to terminal
 print(f"Shortened URL: {shortened_URL}")
